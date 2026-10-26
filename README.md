@@ -184,7 +184,10 @@ with gr.Blocks(title="YOLO AI 物件辨識系統", theme=gr.themes.Soft()) as de
 demo.launch(share=True)
 ```
 ## 六、結果畫面
-
+利用Gradio做一個簡易網頁
 <img width="1917" height="871" alt="螢幕擷取畫面 2026-10-27 011601" src="https://github.com/user-attachments/assets/ddaa74f4-888e-4fdf-9a50-976eebb41f82" />
 
 <img width="857" height="442" alt="螢幕擷取畫面 2026-10-27 011727" src="https://github.com/user-attachments/assets/ee27cc95-bbd2-4d9a-bd4f-e84d205f3d10" />
+
+底下列出辨識人、物品名稱
+## 七、遇到問題
